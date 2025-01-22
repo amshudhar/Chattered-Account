@@ -1,0 +1,22 @@
+body{
+    background-color: #FFDEE9;
+    background-image: linear-gradient(135deg, #FFDEE9 0%, #B5FFFC 100%);
+    
+   
+    
+}
+.bg-trans{
+    opacity: 70%;
+}
+/* Hides scrollbar while allowing scrolling */
+html {
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+    scrollbar-width: none; /* Firefox */
+  }
+  
+  /* body::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera 
+   
+  } */
+ 
