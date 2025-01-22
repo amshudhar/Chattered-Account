@@ -14,7 +14,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 ">
             <NavLink to="/" className="text-2xl font-bold">
-            <div className=' flex'> <img src=".\src\assets\logo.jpg" className='w-12 h-12 rounded-full ' alt="" /> <span className='text-green-900 mx-3 text-4xl '>TallyWise</span></div>
+            <div className=' flex'> <span className='text-green-900 mx-3 text-4xl '>TallyWise</span></div>
             </NavLink>
           </div>
 
